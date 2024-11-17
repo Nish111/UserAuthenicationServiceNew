@@ -27,10 +27,3 @@ The **UserAuthenticationService** ensures secure user authentication and authori
 
 ---
 
-## Folder Structure
-```plaintext
-UserAuthenticationService/
-├── controllers/
-├── services/
-├── models/
-├── resources/
